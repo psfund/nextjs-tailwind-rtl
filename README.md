@@ -1,4 +1,4 @@
-# Next.js + Tailwind + Tailwind-rtl
+# Next.js + Tailwind + Tailwindcss-rtl
 
 This is an example for creating a quick Next.js app with RTL support for Arabic and other RTL languages, along with support for Tailwind CSS, which is a great open source css framework.
 
