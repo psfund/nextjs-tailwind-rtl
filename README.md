@@ -9,3 +9,13 @@ Useful links and credits:
 - [Tailwind CSS](https://tailwindcss.com/)
 
 PS. This example builds on the original [Next.js + Tailwind CSS Example](https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
+
+## How to Use
+
+This project can be bootstrapped as an example with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) using either [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/)
+
+```bash
+npx create-next-app --example https://github.com/psfund/nextjs-tailwind-rtl with-tailwind-rtl-app
+# or
+yarn create next-app --example https://github.com/psfund/nextjs-tailwind-rtl with-tailwind-rtl-app
+```
